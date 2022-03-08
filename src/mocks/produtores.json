@@ -1,0 +1,227 @@
+[
+  {
+    "nome": "Green",
+    "imagem": "../assets/produtores/green.png",
+    "distancia": 7,
+    "estrelas": 2,
+    "cestas": [
+      {
+        "detalhes": {
+          "nome": "Brócolis e Pepino",
+          "descricao": "Uma cesta com produtos selecionados cuidadosamente da fazenda direto para sua cozinha",
+          "preco": "R$ 40,00",
+          "imagem": "../assets/verduras/Pepino.png"
+        },
+        "itens": [
+          {
+            "nome": "Brócolis",
+            "imagem": "../assets/verduras/Brócolis.png"
+          },
+          {
+            "nome": "Pepino",
+            "imagem": "../assets/verduras/Pepino.png"
+          }
+        ]
+      },
+      {
+        "detalhes": {
+          "nome": "Brócolis",
+          "descricao": "Uma cesta com produtos selecionados cuidadosamente da fazenda direto para sua cozinha",
+          "preco": "R$ 40,00",
+
+          "imagem": "../assets/verduras/Brócolis.png"
+        },
+        "itens": [
+          {
+            "nome": "Brócolis",
+            "imagem": "../assets/verduras/Brócolis.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Salad",
+    "imagem": "../assets/produtores/salad.png",
+    "distancia": 456,
+    "estrelas": 1,
+    "cestas": [
+      {
+        "detalhes": {
+          "nome": "Salada completa",
+          "descricao": "Uma cesta com produtos selecionados cuidadosamente da fazenda direto para sua cozinha",
+          "preco": "R$ 40,00",
+
+          "imagem": "../assets/verduras/Verduras.png"
+        },
+        "itens": [
+          {
+            "nome": "Tomate",
+            "imagem": "../assets/verduras/Tomate.png"
+          },
+          {
+            "nome": "Brócolis",
+            "imagem": "../assets/verduras/Brócolis.png"
+          },
+          {
+            "nome": "Pepino",
+            "imagem": "../assets/verduras/Pepino.png"
+          }
+        ]
+      },
+      {
+        "detalhes": {
+          "nome": "Tomate e pepino",
+          "descricao": "Uma cesta com produtos selecionados cuidadosamente da fazenda direto para sua cozinha",
+          "preco": "R$ 40,00",
+
+          "imagem": "../assets/verduras/Tomate.png"
+        },
+        "itens": [
+          {
+            "nome": "Tomate",
+            "imagem": "../assets/verduras/Tomate.png"
+          },
+          {
+            "nome": "Pepino",
+            "imagem": "../assets/verduras/Pepino.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Jenny Jack Farm",
+    "imagem": "../assets/produtores/jenny-jack.png",
+    "distancia": 121,
+    "estrelas": 5,
+    "cestas": [
+      {
+        "detalhes": {
+          "nome": "Muita Batata",
+          "descricao": "Uma cesta com produtos selecionados cuidadosamente da fazenda direto para sua cozinha",
+          "preco": "R$ 40,00",
+
+          "imagem": "../assets/verduras/Batata.png"
+        },
+        "itens": [
+          {
+            "nome": "Batata",
+            "imagem": "../assets/verduras/Batata.png"
+          }
+        ]
+      },
+      {
+        "detalhes": {
+          "nome": "Tomate e Brócolis",
+          "descricao": "Uma cesta com produtos selecionados cuidadosamente da fazenda direto para sua cozinha",
+          "preco": "R$ 40,00",
+
+          "imagem": "../assets/verduras/Brócolis.png"
+        },
+        "itens": [
+          {
+            "nome": "Tomate",
+            "imagem": "../assets/verduras/Tomate.png"
+          },
+          {
+            "nome": "Brócolis",
+            "imagem": "../assets/verduras/Brócolis.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Grow",
+    "imagem": "../assets/produtores/grow.png",
+    "distancia": 281,
+    "estrelas": 4,
+    "cestas": [
+      {
+        "detalhes": {
+          "nome": "Abobora e Aspargos",
+          "descricao": "Uma cesta com produtos selecionados cuidadosamente da fazenda direto para sua cozinha",
+          "preco": "R$ 40,00",
+
+          "imagem": "../assets/verduras/Aspargos.png"
+        },
+        "itens": [
+          {
+            "nome": "Abóbora",
+            "imagem": "../assets/verduras/Abóbora.png"
+          },
+          {
+            "nome": "Aspargos",
+            "imagem": "../assets/verduras/Aspargos.png"
+          }
+        ]
+      },
+      {
+        "detalhes": {
+          "nome": "Tomate e Abobora",
+          "descricao": "Uma cesta com produtos selecionados cuidadosamente da fazenda direto para sua cozinha",
+          "preco": "R$ 40,00",
+
+          "imagem": "../assets/verduras/Abóbora.png"
+        },
+        "itens": [
+          {
+            "nome": "Tomate",
+            "imagem": "../assets/verduras/Tomate.png"
+          },
+          {
+            "nome": "Abóbora",
+            "imagem": "../assets/verduras/Abóbora.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nome": "Potager",
+    "imagem": "../assets/produtores/potager.png",
+    "distancia": 310,
+    "estrelas": 2,
+    "cestas": [
+      {
+        "detalhes": {
+          "nome": "Pepinos",
+          "descricao": "Uma cesta com produtos selecionados cuidadosamente da fazenda direto para sua cozinha",
+          "preco": "R$ 40,00",
+
+          "imagem": "../assets/verduras/Pepino.png"
+        },
+        "itens": [
+          {
+            "nome": "Pepino",
+            "imagem": "../assets/verduras/Pepino.png"
+          }
+        ]
+      },
+      {
+        "detalhes": {
+          "nome": "Brócolis, Aspargos e Cenoura",
+          "descricao": "Uma cesta com produtos selecionados cuidadosamente da fazenda direto para sua cozinha",
+          "preco": "R$ 40,00",
+
+          "imagem": "../assets/verduras/Cenouras2.png"
+        },
+        "itens": [
+          {
+            "nome": "Brócolis",
+            "imagem": "../assets/verduras/Brócolis.png"
+          },
+          {
+            "nome": "Aspargos",
+            "imagem": "../assets/verduras/Aspargos.png"
+          },
+          {
+            "nome": "Cenoura",
+            "imagem": "../assets/verduras/Cenouras.png"
+          }
+        ]
+      }
+    ]
+  }
+]
