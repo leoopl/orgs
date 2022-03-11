@@ -3,3 +3,5 @@ node_modules
 /build
 *.sass
 *.scss
+/app.config.ts
+/metro.config.ts

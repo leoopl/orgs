@@ -1,11 +1,4 @@
-import React from 'react';
-import {
-  View,
-  Image,
-  StyleSheet,
-  Dimensions,
-  TouchableOpacity,
-} from 'react-native';
+import { Image, StyleSheet, Dimensions, TouchableOpacity } from 'react-native';
 
 import Texto from './Texto';
 
