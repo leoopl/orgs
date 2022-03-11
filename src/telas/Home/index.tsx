@@ -3,8 +3,8 @@ import { FlatList, Text, StyleSheet } from 'react-native';
 
 import Produtor from './componentes/Produtor';
 import Topo from './componentes/Topo';
-import useProdutores from 'hooks/useProdutores';
-import useTextos from 'hooks/useTextos';
+import useProdutores from '../../hooks/useProdutores';
+import useTextos from '../../hooks/useTextos';
 
 interface Props {
   melhoresProdutores: boolean;

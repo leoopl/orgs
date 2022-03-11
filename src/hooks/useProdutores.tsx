@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 
-import produtores from 'mocks/produtores.json';
+import produtores from '../mocks/produtores.json';
 
 type INovaLista = typeof produtores;
 

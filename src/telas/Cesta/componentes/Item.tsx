@@ -1,14 +1,13 @@
 import React from 'react';
 import { View, Image, StyleSheet, FlatList } from 'react-native';
 
-import Texto from 'componentes/Texto';
+import Texto from '../../../componentes/Texto';
 
 interface Props {
-  nome: string;
-  imagem: any;
+  item: { nome: string; imagem: any };
 }
 
-export default function Item({ item: { nome, imagem } }) {
+export default function Item({ item: { nome, imagem } }: Props) {
   return (
     <View style={estilos.item}>
       <Image source={imagem} style={estilos.imagem} />

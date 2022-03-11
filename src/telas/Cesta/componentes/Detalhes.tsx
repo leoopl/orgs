@@ -1,8 +1,8 @@
 import React from 'react';
 import { Image, StyleSheet, View, TouchableOpacity } from 'react-native';
 
-import useTextos from 'hooks/useTextos';
-import Texto from 'componentes/Texto';
+import useTextos from '../../../hooks/useTextos';
+import Texto from '../../../componentes/Texto';
 
 interface Props {
   inicialImage: any;

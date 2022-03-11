@@ -9,9 +9,9 @@ import {
 
 import Texto from './Texto';
 
-import Gradiente from 'assets/gradiente.svg';
-import topo from 'assets/topo.png';
-import VoltarSVG from 'assets/voltar.svg';
+import Gradiente from '../assets/gradiente.svg';
+import topo from '../assets/topo.png';
+import VoltarSVG from '../assets/voltar.svg';
 
 const largura = Dimensions.get('screen').width;
 const ALTURA_PADRAO = 270;

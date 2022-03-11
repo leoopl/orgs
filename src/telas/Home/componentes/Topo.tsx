@@ -1,8 +1,8 @@
 import React from 'react';
 import { View, Text, Image, StyleSheet } from 'react-native';
 
-import logo from 'assets/logo.png';
-import useTextos from 'hooks/useTextos';
+import logo from '../../../assets/logo.png';
+import useTextos from '../../../hooks/useTextos';
 
 interface Props {
   melhoresProdutores: boolean;

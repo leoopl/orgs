@@ -1,8 +1,8 @@
 import React from 'react';
 import { TouchableOpacity, Image, StyleSheet } from 'react-native';
 
-import estrela from 'assets/estrela.png';
-import estrelaCinza from 'assets/estrelaCinza.png';
+import estrela from '../assets/estrela.png';
+import estrelaCinza from '../assets/estrelaCinza.png';
 
 interface Props {
   aoPressionar: React.Dispatch<any>;

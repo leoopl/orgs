@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 
-import textos from 'mocks/textos.json';
+import textos from '../mocks/textos.json';
 
 let text = {
   boasVindas: '',
